@@ -7,7 +7,7 @@ WordFinder is a Python package designed to find words in a sentence with a given
 ## Installation
 
 ```bash
-pip install your-word-finder-package
+pip install word-finder
 ```
 
 ## Requirements
