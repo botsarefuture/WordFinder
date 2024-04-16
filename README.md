@@ -65,6 +65,3 @@ print(result)  # Output: {'example'}
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-Make sure to customize the sections according to your specific package details and include any other relevant information.
